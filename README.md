@@ -1,1 +1,1 @@
-"# ACT_and_ACT_participation_project" 
+# ACT and ACT participation project
